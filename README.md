@@ -1,57 +1,42 @@
 # The Strength in Truth
 
-A story of healing, honesty, courage, and transformation.
-
-Inspired by Proverbs 27:5:
-
-> "Open rebuke is better than secret love."
-
-This digital book experience follows David's journey from silence and hidden pain toward healing, truth, and authentic strength. Through friendship, mentorship, and honest love, readers walk through a story designed to encourage courage and personal growth.
+A Christian writing project exploring the strength of biblical truth, spiritual discernment, and the call to remain grounded in God's Word.
 
 ## Live Website
+https://brad-hobbswd.github.io/strength-of-the-truth/
 
-🌐 https://brad-hobbswd.github.io/strength-of-the-truth
+## Overview
+A Christian writing project exploring the strength of biblical truth, spiritual discernment, and the call to remain grounded in God's Word.
 
-## About the Book
+## Pages
+- `about-the-book.html`
+- `chapter1.html`
+- `chapter10.html`
+- `chapter2.html`
+- `chapter3.html`
+- `chapter4.html`
+- `chapter5.html`
+- `chapter6.html`
+- `chapter7.html`
+- `chapter8.html`
+- `chapter9.html`
+- `closing-thoughts.html`
+- `contents.html`
+- `dedication.html`
+- `forward.html`
+- `prayer.html`
+- `preface.html`
+- `publication.html`
+- `reason-for-the-book.html`
 
-The Strength in Truth follows David as he navigates physical injuries, emotional wounds, family expectations, and years of silent suffering.
+## Technology
+Static website hosted through GitHub Pages, using the repository's HTML, styling, scripts, and asset files.
 
-Throughout ten chapters, David discovers:
+## Copyright and Permissions
+Copyright © 2026 Bradley Hobbs. All rights reserved.
 
-• Strength is not pretending  
-• Healing begins through honesty  
-• Real friends speak truth  
-• Vulnerability requires courage  
-• Love and truth work together  
+Original writing, manuscripts, teaching materials, website copy, graphics, visual design, and source code are protected by copyright. Please obtain written permission before reproducing, redistributing, modifying, republishing, or commercially using original materials, except where applicable law permits otherwise. Third-party materials remain subject to their respective terms.
 
-This project transforms the manuscript into a complete interactive reading experience built for the web.
-
-## Website Structure
-
-```text
-index.html
-contents.html
-
-publication.html
-dedication.html
-forward.html
-preface.html
-
-chapter1.html
-chapter2.html
-chapter3.html
-chapter4.html
-chapter5.html
-chapter6.html
-chapter7.html
-chapter8.html
-chapter9.html
-chapter10.html
-
-closing-thoughts.html
-reason-for-the-book.html
-about-the-book.html
-prayer.html
-
-footer.html
-404.html
+## Search Engine Files
+- [Sitemap](sitemap.xml)
+- [robots.txt](robots.txt)
